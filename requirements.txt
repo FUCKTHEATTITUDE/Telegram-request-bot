@@ -26,7 +26,7 @@ requests
 speedtest-cli
 uvloop
 git+https://github.com/yt-dlp/yt-dlp@master
-git+https://github.com/python-telegram-bot/python-telegram-bot
+python-telegram-bot
 telegraph
 hachoir
 lyricsgenius
