@@ -1,0 +1,28 @@
+# System
+tgcrypto
+git+https://github.com/AmanoTeam/pyrogram.git
+git+https://github.com/MagicStack/uvloop.git
+uvloop ; platform_system != "Windows"
+
+# Database
+aiosqlite
+manimlib
+
+# Plugins Deps
+meval
+speedtest-cli
+humanfriendly
+python-ffmpeg
+gpytranslate
+httpx[http2]
+yt-dlp
+Pillow
+manimce
+
+# Others
+pytio
+regex
+yarl
+telegraph
+aiohttp
+aiofiles
